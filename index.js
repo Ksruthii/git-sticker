@@ -41,6 +41,7 @@ const fs = require('fs');
       message: 'Country'
     },
     {
+      
       type: 'input',
       name: 'notes',
       message: 'Any special notes?'
